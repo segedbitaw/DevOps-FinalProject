@@ -6,7 +6,7 @@
 <body>
     <h2>Welcome to My Simple JSP App</h2>
 
-    <form action="hello.jsp" method="get">
+    <form action="wellcome.jsp" method="get">
         Enter your name: <input type="text" name="username" />
         <input type="submit" value="Submit" />
     </form>
